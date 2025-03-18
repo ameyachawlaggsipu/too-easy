@@ -1,4 +1,4 @@
-# TOO EASY - GitHub Contribution Art 🎨
+# TOO EASY - GitHub Contribution Art  Testing🎨
 
 ## Introduction
 This project is an experiment in **GitHub contribution heatmap art**. The goal is to manipulate commit timestamps strategically to spell **"TOO EASY"** in green squares on the GitHub contributions graph.
